@@ -2,92 +2,90 @@
   "products": [
     {
       "id": 1,
-      "sku": 18644119330491312,
-      "title": "Sphynx Tie Dye Grey T-Shirt",
-      "description": "Sphynx Tie Dye Grey",
-      "availableSizes": ["X", "L", "XL", "XXL"],
-      "price": 10,
+      "sku": 1,
+      "title": "Harley-Davidson CVO",
+      "description": "Harley-Davidson CVO",
+      "price": 1000,
       "isFreeShipping": true
     },
 
     {
       "id": 2,
-      "sku": 11854078013954528,
-      "title": "Danger Knife Grey T-Shirt",
-      "description": "Danger Knife Grey",
+      "sku": 2,
+      "title": "Ducati Panigale V4 Speciale",
+      "description": "Ducati Panigale V4 Speciale",
       "availableSizes": ["X", "M", "L"],
-      "price": 14.9,
+      "price": 1459,
       "isFreeShipping": true
     },
 
     {
       "id": 3,
-      "sku": 876661122392077,
-      "title": "White DGK Script Tee",
-      "description": "White DGK Script",
-      "availableSizes": ["X", "M", "L"],
-      "price": 14.9,
+      "sku": 3,
+      "title": "Kawasaki Ninja H2",
+      "description": "Kawasaki Ninja H2",
+      "price": 1419,
       "isFreeShipping": true
     },
 
     {
       "id": 4,
-      "sku": 9197907543445677,
-      "title": "Born On The Streets  T-Shirt",
-      "description": "Born On The Streets",
+      "sku": 4,
+      "title": "BMW HP4 Race",
+      "description": "BMW HP4 Race",
       "availableSizes": ["XL"],
-      "price": 25.9,
+      "price": 2569,
       "isFreeShipping": false
     },
 
     {
       "id": 5,
-      "sku": 10547961582846888,
-      "title": "Tso 3D Short Sleeve T-Shirt A",
-      "description": "Tso 3D Short Sleeve",
+      "sku": 5,
+      "title": "BMW HP4 Race",
+      "description": "BMW HP4 Race",
       "availableSizes": ["X", "L", "XL"],
-      "price": 10.9,
+      "price": 1009,
       "isFreeShipping": false
     },
 
     {
       "id": 6,
-      "sku": 6090484789343891,
-      "title": "Man Tie Dye Cinza Grey T-Shirt",
-      "description": "Man Tie Dye Cinza Grey",
+      "sku": 6,
+      "title": "Big Dog K9 Red Chopper",
+      "description": "Big Dog K9 Red Chopper",
       "availableSizes": ["XL", "XXL"],
-      "price": 49.9,
+      "price": 4939,
       "isFreeShipping": false
     },
 
     {
       "id": 7,
-      "sku": 18532669286405342,
-      "title": "Crazy Monkey Black T-Shirt",
-      "description": "1977 Infantil",
+      "sku": 7,
+      "title": " Ducati Panigale V4 R",
+      "description": " Ducati Panigale V4 R",
       "availableSizes": ["S"],
       "style": "Preto com listras brancas",
-      "price": 22.5,
+      "price": 2215,
       "isFreeShipping": true
     },
 
     {
       "id": 8,
-      "sku": 5619496040738316,
-      "title": "Tso 3D Black T-Shirt",
+      "sku": 8,
+      "title": "MV Agusta F4 RC",
       "description": "",
       "availableSizes": ["XL"],
       "style": "Azul escuro",
-      "price": 18.7,
+      "price": 1817,
       "isFreeShipping": false
     },
     {
       "id": 9,
-      "sku": 11600983276356165,
-      "title": "Crazy Monkey Grey",
+      "sku": 9,
+      "title": "Honda Goldwing Tour",
       "description": "",
       "availableSizes": ["L", "XL"],
-      "price": 134.9,
+      "price": 1349,
       "isFreeShipping": true
     }
   ]
